@@ -2,7 +2,7 @@ html {
 	background-color: white;
 }
 
-body {	
+body {
 	width: 1300px;
 	/*height: 2900px;*/
 	margin: 0 auto;
@@ -57,7 +57,7 @@ header div {
 	height: 191px;
 	position: fixed;
 	top: 258px;
-	left: 158px;
+	/* left: 158px; */
 	background: url(../images/fixed.png) no-repeat;
 }
 
